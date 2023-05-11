@@ -6,7 +6,7 @@ Each part of the project is aimed to execute each of these stages:
   - Collecting Facebook Marketplace Listings Data (From the URLs)
   - Create and Train a model based on the test & train data
 
-==============  11/05/2023 - IMPORTANT NOTICE ========================================================================================
+==============  11/05/2023 - IMPORTANT NOTICE ======================================
 
 The following project has been submitted within the given deadline (02/05/2023), and since the upload, no changes to the actual code 
 has been made.
